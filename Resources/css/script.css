@@ -1,0 +1,23 @@
+h1 {
+    font-family:"lucida sans";
+    font-size:x-large;
+    color:crimson;
+    text-align: center;
+}
+
+.container{
+    font-family: 'Encode Sans Expnaded', sans-serif;
+}
+
+#searchButton { 
+    width: 50%;
+    background-color:rgb(219, 53, 16);
+}
+
+.custom-background {
+    background-color:white;
+}
+
+#app-logo {
+    padding-top: 10px;
+}
